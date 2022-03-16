@@ -1,4 +1,4 @@
-## Projeto-API-IBGE
+## Projeto IBGE
 
 Projeto desenvolvido no curso +Devs2Blu. A aplicação consulta a API do IBGE (https://servicodados.ibge.gov.br/api/v1/localidades/estados/SC/municipios) e retorna os municípios pertencentes ao Estado que o usuário escolheu.
 
