@@ -1,0 +1,16 @@
+img {
+  width: 200px;
+}
+
+.card {
+  margin-left: 10px;
+  margin-right: 10px;
+  border-color: black;
+  align-items: center;
+}
+
+.row {
+  flex-direction: row;
+  align-content: space-around;
+  justify-content: center;
+}
